@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sherriffs App</string>
+    <string name="example_greeting">Hi CS 3240!</string>
+</resources>
